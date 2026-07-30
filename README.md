@@ -119,7 +119,8 @@ for i in range(50):
     time.sleep(0.05)
 
 cap.release()
-![Uploading download.png…]()
+<img width="512" height="389" alt="download" src="https://github.com/user-attachments/assets/d9783f83-ce4c-49cb-a3d3-962d420d220a" />
+
 
 
 cap = cv2.VideoCapture(0)
