@@ -119,7 +119,8 @@ for i in range(50):
     time.sleep(0.05)
 
 cap.release()
-<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/4387f840-ac09-436f-b03d-ec5e2055271c" />
+![Uploading download.png…]()
+
 
 cap = cv2.VideoCapture(0)
 
@@ -169,7 +170,8 @@ for i in range(50):
     time.sleep(0.05)
 
 cap.release()
-<img width="512" height="389" alt="download" src="https://github.com/user-attachments/assets/727d7cb0-8861-4172-9e97-c77a859de973" />
+<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/ebb986fa-17e0-4791-9342-2b8fe8ae33f8" />
+
 
 
 
